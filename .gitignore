@@ -1,0 +1,11 @@
+
+
+*.dbmdl
+*sqlproj.user
+obj/Debug/TeamList.Database.sqlproj.AssemblyReference.cache
+/.vs/TeamList.Database.slnx/FileContentIndex
+/.vs/TeamList.Database.slnx/v18
+/bin/Debug
+/obj/Debug
+/TeamList.Database.jfm
+.jfm
